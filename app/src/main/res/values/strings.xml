@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animal Sound</string>
+    <string name="txt_loading">Loading...</string>
+    <string name="pig">Pig</string>
+    <string name="axolotl">Axolotl</string>
+    <string name="cat">Cat</string>
+    <string name="chicken">Chicken</string>
+    <string name="fox">Fox</string>
+</resources>
